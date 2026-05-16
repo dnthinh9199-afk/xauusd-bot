@@ -1,7 +1,6 @@
-python-telegram-bot==13.15
-requests
-pandas
-numpy
-ta
 yfinance
+pandas
+ta
+requests
 schedule
+numpy
